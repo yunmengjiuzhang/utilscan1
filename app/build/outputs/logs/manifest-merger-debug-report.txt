@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:5:5-65
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:6:5-69
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-69
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:7:5-66
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-66
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:8:5-84
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-84
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:8:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-81
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:11:5-60
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-60
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:12:5-70
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-70
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:20:22-69
+application
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:22:5-41:19
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-28:19
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-28:19
+	android:label
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.zbar.lib.CaptureActivity
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:27:9-37:20
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:9-27:20
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:28:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.zbar.liba.Login2Activity
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:38:9-40:69
+	android:label
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:40:13-57
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:39:13-43
+uses-sdk
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:scan] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml

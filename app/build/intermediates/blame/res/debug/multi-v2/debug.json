@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,7,11,10,8,9,12,4,5,1",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "229,293,590,509,351,430,663,116,164,17",
+                        "endColumns": "62,56,71,79,77,77,115,46,63,56",
+                        "endOffsets": "287,345,657,584,424,503,774,158,223,69"
+                    },
+                    "to": {
+                        "startLines": "12,13,15,16,17,18,19,20,21,23",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "503,566,671,743,823,901,979,1095,1142,1262",
+                        "endColumns": "62,56,71,79,77,77,115,46,63,56",
+                        "endOffsets": "561,618,738,818,896,974,1090,1137,1201,1314"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "145,203",
+                        "endColumns": "57,55",
+                        "endOffsets": "198,254"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,145,185,221,264,310,344,389,437,493,784,944",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,18,21,26",
+                        "endColumns": "49,39,39,35,42,45,33,44,47,55,12,12,12",
+                        "endOffsets": "100,140,180,216,259,305,339,384,432,488,779,939,1190"
+                    },
+                    "to": {
+                        "startLines": "2,3,6,7,8,9,10,11,14,22,24,31,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,259,299,335,378,424,458,623,1206,1319,1610,1770",
+                        "endLines": "2,3,6,7,8,9,10,11,14,22,30,33,38",
+                        "endColumns": "49,39,39,35,42,45,33,44,47,55,12,12,12",
+                        "endOffsets": "100,140,294,330,373,419,453,498,666,1257,1605,1765,2016"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

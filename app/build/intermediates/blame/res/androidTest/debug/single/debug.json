@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_capture.9.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\capture.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_beep.ogg.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_qrcode_scan_line.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\qrcode_scan_line.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_scanner.xml.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_scan_mask.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scan_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    }
+]
