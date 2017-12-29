@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\utilscan1-v1.2.aar\\05380e966b2e0df373a184c62c9d9cb2\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

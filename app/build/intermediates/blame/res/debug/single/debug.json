@@ -329,7 +329,7 @@
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_scan_mask.png.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scan_mask.png"
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\utilscan1-v1.2.aar\\05380e966b2e0df373a184c62c9d9cb2\\res\\drawable-xhdpi-v4\\scan_mask.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
@@ -489,7 +489,7 @@
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_qrcode_scan_line.png.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\qrcode_scan_line.png"
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\utilscan1-v1.2.aar\\05380e966b2e0df373a184c62c9d9cb2\\res\\drawable-hdpi-v4\\qrcode_scan_line.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -629,7 +629,7 @@
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scanner.xml.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_scanner.xml"
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\utilscan1-v1.2.aar\\05380e966b2e0df373a184c62c9d9cb2\\res\\layout\\activity_scanner.xml"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
@@ -1381,7 +1381,7 @@
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_capture.9.png.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\capture.9.png"
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\utilscan1-v1.2.aar\\05380e966b2e0df373a184c62c9d9cb2\\res\\drawable-xhdpi-v4\\capture.9.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1429,7 +1429,7 @@
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan\\build\\intermediates\\bundles\\debug\\res\\raw\\beep.ogg"
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\utilscan1-v1.2.aar\\05380e966b2e0df373a184c62c9d9cb2\\res\\raw\\beep.ogg"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
