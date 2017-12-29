@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,11,15",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,593,832",
+                        "endLines": "2,3,7,10,14,15",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,588,827,920"
+                    }
+                }
+            ]
+        }
+    ]
+}
