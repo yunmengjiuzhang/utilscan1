@@ -91,6 +91,21 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,269,392,497,602,688,788,901,978,1054,1133,1234,1335,1432,1541,1640,1750,1872,1972,2051",
+                        "endColumns": "105,107,122,104,104,85,99,112,76,75,78,100,100,96,108,98,109,121,99,78,100",
+                        "endOffsets": "156,264,387,492,597,683,783,896,973,1049,1128,1229,1330,1427,1536,1635,1745,1867,1967,2046,2147"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
             "map": [
                 {
@@ -126,21 +141,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-pa\\values-pa.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,161,269,392,497,602,688,788,901,978,1054,1133,1234,1335,1432,1541,1640,1750,1872,1972,2051",
-                        "endColumns": "105,107,122,104,104,85,99,112,76,75,78,100,100,96,108,98,109,121,99,78,100",
-                        "endOffsets": "156,264,387,492,597,683,783,896,973,1049,1128,1229,1330,1427,1536,1635,1745,1867,1967,2046,2147"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
             "map": [
                 {
@@ -156,21 +156,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-ka\\values-ka.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,164,272,395,499,610,698,803,916,1000,1082,1165,1278,1385,1483,1596,1700,1804,1926,2024,2105",
-                        "endColumns": "108,107,122,103,110,87,104,112,83,81,82,112,106,97,112,103,103,121,97,80,100",
-                        "endOffsets": "159,267,390,494,605,693,798,911,995,1077,1160,1273,1380,1478,1591,1695,1799,1921,2019,2100,2201"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-km_values-km.arsc.flat",
             "map": [
                 {
@@ -181,6 +166,21 @@
                         "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
                         "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
                         "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,499,610,698,803,916,1000,1082,1165,1278,1385,1483,1596,1700,1804,1926,2024,2105",
+                        "endColumns": "108,107,122,103,110,87,104,112,83,81,82,112,106,97,112,103,103,121,97,80,100",
+                        "endOffsets": "159,267,390,494,605,693,798,911,995,1077,1160,1273,1380,1478,1591,1695,1799,1921,2019,2100,2201"
                     }
                 }
             ]
@@ -336,21 +336,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-sq\\values-sq.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,169,277,400,500,612,699,809,932,1013,1092,1175,1281,1386,1484,1590,1693,1809,1940,2039,2120",
-                        "endColumns": "113,107,122,99,111,86,109,122,80,78,82,105,104,97,105,102,115,130,98,80,100",
-                        "endOffsets": "164,272,395,495,607,694,804,927,1008,1087,1170,1276,1381,1479,1585,1688,1804,1935,2034,2115,2216"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
             "map": [
                 {
@@ -361,6 +346,21 @@
                         "startOffsets": "55,158,266,389,487,595,685,790,907,989,1072,1154,1255,1364,1463,1570,1679,1784,1903,2000,2082",
                         "endColumns": "102,107,122,97,107,89,104,116,81,82,81,100,108,98,106,108,104,118,96,81,100",
                         "endOffsets": "153,261,384,482,590,680,785,902,984,1067,1149,1250,1359,1458,1565,1674,1779,1898,1995,2077,2178"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,169,277,400,500,612,699,809,932,1013,1092,1175,1281,1386,1484,1590,1693,1809,1940,2039,2120",
+                        "endColumns": "113,107,122,99,111,86,109,122,80,78,82,105,104,97,105,102,115,130,98,80,100",
+                        "endOffsets": "164,272,395,495,607,694,804,927,1008,1087,1170,1276,1381,1479,1585,1688,1804,1935,2034,2115,2216"
                     }
                 }
             ]
@@ -633,21 +633,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-zu\\values-zu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,163,271,394,501,615,703,806,933,1013,1093,1179,1283,1389,1487,1594,1700,1806,1926,2022,2103",
-                        "endColumns": "107,107,122,106,113,87,102,126,79,79,85,103,105,97,106,105,105,119,95,80,100",
-                        "endOffsets": "158,266,389,496,610,698,801,928,1008,1088,1174,1278,1384,1482,1589,1695,1801,1921,2017,2098,2199"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-v25_values-v25.arsc.flat",
             "map": [
                 {
@@ -659,6 +644,21 @@
                         "endLines": "2,3,5,7",
                         "endColumns": "70,82,12,12",
                         "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,501,615,703,806,933,1013,1093,1179,1283,1389,1487,1594,1700,1806,1926,2022,2103",
+                        "endColumns": "107,107,122,106,113,87,102,126,79,79,85,103,105,97,106,105,105,119,95,80,100",
+                        "endOffsets": "158,266,389,496,610,698,801,928,1008,1088,1174,1278,1384,1482,1589,1695,1801,1921,2017,2098,2199"
                     }
                 }
             ]
