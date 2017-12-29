@@ -14,7 +14,7 @@
       }
 2.module的build.gradle添加
 
-    compile 'com.github.wangfeixixi:utilscan1:v1.0'
+    compile 'com.github.wangfeixixi:utilscan1:v1.4'
 
 完工开始体验：
 public class MainActivity extends CaptureActivity {
