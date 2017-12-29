@@ -21,6 +21,6 @@ android {
 
 dependencies {
 //    compile 'com.github.wangfeixixi:utilscan1:v1.2'
-    compile project(path: ':scan')
+    compile project(path: ':scan1')
 //    compile project(path: ':phonemodule1')
 }
