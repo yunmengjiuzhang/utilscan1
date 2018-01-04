@@ -1,6 +1,8 @@
 package com.zbar.liba;
 
 import android.view.SurfaceView;
+import android.view.View;
+import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
@@ -10,13 +12,13 @@ import wangfei.scan1.Scan1Activity;
 public class MainActivity extends Scan1Activity {
 
     @Override
-    protected ImageView getLinene() {
-        return (ImageView) findViewById(R.id.capture_scan_line);
+    protected View getline() {
+        return findViewById(R.id.capture_scan_line);
     }
 
     @Override
-    protected RelativeLayout getLienContatiner() {
-        return (RelativeLayout) findViewById(R.id.capture_crop_layout);
+    protected View getCaptureCropLayout() {
+        return findViewById(R.id.capture_crop_layout);
     }
 
     @Override

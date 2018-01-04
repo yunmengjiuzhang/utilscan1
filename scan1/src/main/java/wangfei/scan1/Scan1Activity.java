@@ -6,6 +6,7 @@ import android.os.Handler;
 import android.view.SurfaceHolder;
 import android.view.SurfaceHolder.Callback;
 import android.view.SurfaceView;
+import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.LinearInterpolator;
 import android.view.animation.TranslateAnimation;
@@ -33,7 +34,7 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
     private int y = 0;
     private int cropWidth = 0;//剪切宽度
     private int cropHeight = 0;//剪切高度
-    private RelativeLayout mCropLayout = null;
+    private View mCropLayout = null;
     private boolean isNeedCapture = false;
     private SurfaceView surfaceView;
 
@@ -87,8 +88,8 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
         CameraManager.init(getApplication());// 初始化CameraManager
         hasSurface = false;
         inactivityTimer = new InactivityTimer(this);
-        mCropLayout = getLienContatiner();
-        ImageView mQrLineView = getLinene();
+        mCropLayout = getCaptureCropLayout();
+        View mQrLineView = getline();
         TranslateAnimation mAnimation = new TranslateAnimation(TranslateAnimation.ABSOLUTE, 0f, TranslateAnimation.ABSOLUTE, 0f,
                 TranslateAnimation.RELATIVE_TO_PARENT, 0f, TranslateAnimation.RELATIVE_TO_PARENT, 0.9f);
         mAnimation.setDuration(500);
@@ -101,9 +102,9 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
 
     protected abstract void initView();
 
-    protected abstract ImageView getLinene();
+    protected abstract View getline();
 
-    protected abstract RelativeLayout getLienContatiner();
+    protected abstract View getCaptureCropLayout();
 
     protected abstract SurfaceView getSufaceView();
 
