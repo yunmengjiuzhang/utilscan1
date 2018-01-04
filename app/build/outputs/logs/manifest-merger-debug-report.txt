@@ -118,7 +118,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xuany\.gradle\caches
 	android:allowBackup
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:23:9-35
 	android:theme
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:26:9-40
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:26:9-65
 activity#com.zbar.liba.Login2Activity
 ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:33:9-40:40
 	android:theme

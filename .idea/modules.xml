@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scan1/scan.iml" filepath="$PROJECT_DIR$/scan1/scan.iml" />
+      <module fileurl="file://C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\scan.iml" filepath="C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scan1/scan1.iml" filepath="$PROJECT_DIR$/scan1/scan1.iml" />
       <module fileurl="file://C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\scansasdfasdfa.iml" filepath="C:\Users\xuany\Androidws\workspace\util\utilscan1\scan\scansasdfasdfa.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilscan1.iml" filepath="$PROJECT_DIR$/utilscan1.iml" />
     </modules>
