@@ -3,20 +3,15 @@ package wangfei.scan1;
 import android.graphics.Point;
 import android.os.Bundle;
 import android.os.Handler;
-import android.util.DisplayMetrics;
 import android.view.SurfaceHolder;
 import android.view.SurfaceHolder.Callback;
 import android.view.SurfaceView;
-import android.view.View;
-import android.view.View.OnClickListener;
 import android.view.animation.Animation;
 import android.view.animation.LinearInterpolator;
 import android.view.animation.TranslateAnimation;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
-import android.widget.RelativeLayout.LayoutParams;
 
-import com.zbar.lib.R;
 import com.zbar.lib.camera.CameraManager;
 import com.zbar.lib.decode.CaptureActivityHandler;
 import com.zbar.lib.decode.InactivityTimer;
@@ -36,11 +31,11 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
     private InactivityTimer inactivityTimer;
     private int x = 0;
     private int y = 0;
-    private int cropWidth = 0;
-    private int cropHeight = 0;
-    private RelativeLayout mContainer = null;
+    private int cropWidth = 0;//剪切宽度
+    private int cropHeight = 0;//剪切高度
     private RelativeLayout mCropLayout = null;
     private boolean isNeedCapture = false;
+    private SurfaceView surfaceView;
 
     public boolean isNeedCapture() {
         return isNeedCapture;
@@ -88,59 +83,45 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
-        setContentView(R.layout.activity_scanner);
-        // 初始化CameraManager
-        CameraManager.init(getApplication());
+        initView();
+        CameraManager.init(getApplication());// 初始化CameraManager
         hasSurface = false;
         inactivityTimer = new InactivityTimer(this);
-
-        mContainer = (RelativeLayout) findViewById(R.id.capture_containter);
-        mCropLayout = (RelativeLayout) findViewById(R.id.capture_crop_layout);
-        findViewById(R.id.loca_show_btncancle).setOnClickListener(new OnClickListener() {
-
-            @Override
-            public void onClick(View arg0) {
-                finish();
-            }
-        });
-        //获得屏幕的宽高
-        DisplayMetrics displayMetrics = getResources().getDisplayMetrics();
-        int screenWith = displayMetrics.widthPixels;
-        LayoutParams params = (LayoutParams) mCropLayout.getLayoutParams();
-        params.width = screenWith * 2 / 3;
-        params.height = screenWith * 2 / 3;
-        mCropLayout.setLayoutParams(params);
-        ImageView mQrLineView = (ImageView) findViewById(R.id.capture_scan_line);
+        mCropLayout = getLienContatiner();
+        ImageView mQrLineView = getLinene();
         TranslateAnimation mAnimation = new TranslateAnimation(TranslateAnimation.ABSOLUTE, 0f, TranslateAnimation.ABSOLUTE, 0f,
                 TranslateAnimation.RELATIVE_TO_PARENT, 0f, TranslateAnimation.RELATIVE_TO_PARENT, 0.9f);
-        mAnimation.setDuration(1500);
+        mAnimation.setDuration(500);
         mAnimation.setRepeatCount(-1);
         mAnimation.setRepeatMode(Animation.REVERSE);
         mAnimation.setInterpolator(new LinearInterpolator());
         mQrLineView.setAnimation(mAnimation);
     }
 
-    boolean flag = true;
 
-    protected void light() {
-        if (flag == true) {
-            flag = false;
-            // 打开
-            CameraManager.get().openLight();
-        } else {
-            flag = true;
-            // 关闭
-            CameraManager.get().offLight();
-        }
+    protected abstract void initView();
 
+    protected abstract ImageView getLinene();
+
+    protected abstract RelativeLayout getLienContatiner();
+
+    protected abstract SurfaceView getSufaceView();
+
+    public abstract void handleResult(String result);
+
+    protected void openLight() {
+        CameraManager.get().openLight(); //
+    }
+
+    protected void offLight() {
+        CameraManager.get().offLight(); //
     }
 
     @SuppressWarnings("deprecation")
     @Override
     protected void onResume() {
         super.onResume();
-        SurfaceView surfaceView = (SurfaceView) findViewById(R.id.capture_preview);
+        surfaceView = getSufaceView();
         SurfaceHolder surfaceHolder = surfaceView.getHolder();
         if (hasSurface) {
             initCamera(surfaceHolder);
@@ -149,6 +130,7 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
             surfaceHolder.setType(SurfaceHolder.SURFACE_TYPE_PUSH_BUFFERS);
         }
     }
+
 
     @Override
     protected void onPause() {
@@ -171,7 +153,6 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
         handleResult(result);
     }
 
-    public abstract void handleResult(String result);
 
     private void initCamera(SurfaceHolder surfaceHolder) {
         try {
@@ -181,11 +162,11 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
             int width = point.y;
             int height = point.x;
 
-            int x = mCropLayout.getLeft() * width / mContainer.getWidth();
-            int y = mCropLayout.getTop() * height / mContainer.getHeight();
+            int x = mCropLayout.getLeft() * width / surfaceView.getWidth();
+            int y = mCropLayout.getTop() * height / surfaceView.getHeight();
 
-            int cropWidth = mCropLayout.getWidth() * width / mContainer.getWidth();
-            int cropHeight = mCropLayout.getHeight() * height / mContainer.getHeight();
+            int cropWidth = mCropLayout.getWidth() * width / surfaceView.getWidth();
+            int cropHeight = mCropLayout.getHeight() * height / surfaceView.getHeight();
 
             setX(x);
             setY(y);
@@ -220,7 +201,6 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
     @Override
     public void surfaceDestroyed(SurfaceHolder holder) {
         hasSurface = false;
-
     }
 
     public Handler getHandler() {

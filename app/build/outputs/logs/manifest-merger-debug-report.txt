@@ -1,8 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.wangfeixixi:utilswipeback:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilswipeback-v1.4.aar\320e1eb4507507a53f5516f83610875f\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8b6944c4522a463d389c9760fdfb0445\AndroidManifest.xml:17:1-28:12
@@ -14,7 +15,7 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\xuany\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e7ea1f089b9e53bee41f889dcdddf609\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\df211c0ecb8114e5b0036ecef8263fbd\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\931e93cd4ee0280f57aedd3f494d60b7\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:3:5-28
 		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
@@ -88,9 +89,11 @@ ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:20:22-69
 application
-ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:22:5-41:19
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:22:5-43:19
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-28:19
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8b6944c4522a463d389c9760fdfb0445\AndroidManifest.xml:22:5-26:19
@@ -112,35 +115,37 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xuany\.gradle\c
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\931e93cd4ee0280f57aedd3f494d60b7\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\931e93cd4ee0280f57aedd3f494d60b7\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:25:9-41
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:26:9-41
 	android:icon
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:24:9-36
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:25:9-36
 	android:allowBackup
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:24:9-35
 	android:theme
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:26:9-65
-activity#com.zbar.liba.Login2Activity
-ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:33:9-40:40
-	android:theme
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:35:13-63
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:27:9-65
 	android:name
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:34:13-43
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:23:9-32
+activity#com.zbar.liba.MainActivity
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:35:9-42:20
+	android:name
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:35:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:37:13-41:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:40:27-74
 uses-sdk
 INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.wangfeixixi:utilswipeback:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilswipeback-v1.4.aar\320e1eb4507507a53f5516f83610875f\AndroidManifest.xml:9:5-11:41
 MERGED from [com.github.wangfeixixi:utilswipeback:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilswipeback-v1.4.aar\320e1eb4507507a53f5516f83610875f\AndroidManifest.xml:9:5-11:41
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:21:5-23:78

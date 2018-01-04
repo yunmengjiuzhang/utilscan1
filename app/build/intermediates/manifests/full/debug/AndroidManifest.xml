@@ -24,6 +24,7 @@
     <uses-permission android:name="android.permission.READ_CALL_LOG" />
 
     <application
+        android:name="com.zbar.liba.BaseApp"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/icon"
@@ -37,9 +38,7 @@
         <!-- android:screenOrientation="portrait" -->
         <!-- android:theme="@style/Theme.AppCompat.NoActionBar"> -->
         <!-- </activity> -->
-        <activity
-            android:name="com.zbar.liba.Login2Activity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" >
+        <activity android:name="com.zbar.liba.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

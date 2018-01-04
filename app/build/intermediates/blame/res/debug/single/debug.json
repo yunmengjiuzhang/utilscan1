@@ -84,12 +84,12 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -136,12 +136,12 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
-        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -204,12 +204,12 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df211c0ecb8114e5b0036ecef8263fbd\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
@@ -252,6 +252,10 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable\\tooltip_frame_dark.xml"
     },
@@ -264,16 +268,16 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
@@ -388,10 +392,6 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_scan_back.png.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan1\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_back.png"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df211c0ecb8114e5b0036ecef8263fbd\\res\\drawable\\notification_bg.xml"
     },
@@ -440,12 +440,12 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
@@ -492,10 +492,6 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_qrcode_scan_line.png.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan1\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\qrcode_scan_line.png"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable\\abc_switch_thumb_material.xml"
     },
@@ -516,12 +512,12 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\3c23dc4bf125f7ad2dee4712cea1e612\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\3c23dc4bf125f7ad2dee4712cea1e612\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
@@ -628,10 +624,6 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scanner.xml.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan1\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_scanner.xml"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
@@ -730,10 +722,6 @@
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
@@ -1112,6 +1100,10 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_capture.9.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\src\\main\\res\\drawable\\capture.9.png"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df211c0ecb8114e5b0036ecef8263fbd\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
@@ -1194,6 +1186,10 @@
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_line.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\src\\main\\res\\mipmap-mdpi\\line.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1380,10 +1376,6 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_capture.9.png.flat",
-        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\scan1\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\capture.9.png"
-    },
-    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -1466,6 +1458,10 @@
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_scan_back1.png.flat",
+        "source": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\src\\main\\res\\mipmap-mdpi\\scan_back1.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",

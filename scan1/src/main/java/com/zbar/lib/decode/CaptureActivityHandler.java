@@ -9,12 +9,6 @@ import com.zbar.lib.R;
 import com.zbar.lib.camera.CameraManager;
 
 /**
- * 作者: 陈涛(1076559197@qq.com)
- * <p>
- * 时间: 2014年5月9日 下午12:23:32
- * <p>
- * 版本: V_1.0.0
- * <p>
  * 描述: 扫描消息转发
  */
 public final class CaptureActivityHandler extends Handler {
@@ -51,27 +45,6 @@ public final class CaptureActivityHandler extends Handler {
             state = State.PREVIEW;
             CameraManager.get().requestPreviewFrame(decodeThread.getHandler(), R.id.decode);
         }
-//        switch (message.what) {
-//            case R.id.auto_focus:
-//                if (state == State.PREVIEW) {
-//                    CameraManager.get().requestAutoFocus(this, R.id.auto_focus);
-//                }
-//                break;
-//            case R.id.restart_preview:
-//                restartPreviewAndDecode();
-//                break;
-//            case R.id.decode_succeeded:
-//                state = State.SUCCESS;
-//                activity.handleDecode((String) message.obj);// 解析成功，回调
-//                break;
-//
-//            case R.id.decode_succeeded:
-//                state = State.PREVIEW;
-//                CameraManager.get().requestPreviewFrame(decodeThread.getHandler(),
-//                        R.id.decode);
-//                break;
-//        }
-
     }
 
     public void quitSynchronously() {
