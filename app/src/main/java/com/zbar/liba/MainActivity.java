@@ -3,6 +3,8 @@ package com.zbar.liba;
 import android.view.SurfaceView;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
@@ -24,6 +26,17 @@ public class MainActivity extends Scan1Activity {
     @Override
     protected void initView() {
         setContentView(R.layout.activity_main);
+        CheckBox viewById = (CheckBox) findViewById(R.id.cb_light);
+        viewById.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                if (isChecked) {
+                    openLight();
+                } else {
+                    offLight();
+                }
+            }
+        });
     }
 
     @Override

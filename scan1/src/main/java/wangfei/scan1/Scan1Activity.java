@@ -92,7 +92,7 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
         View mQrLineView = getline();
         TranslateAnimation mAnimation = new TranslateAnimation(TranslateAnimation.ABSOLUTE, 0f, TranslateAnimation.ABSOLUTE, 0f,
                 TranslateAnimation.RELATIVE_TO_PARENT, 0f, TranslateAnimation.RELATIVE_TO_PARENT, 0.9f);
-        mAnimation.setDuration(500);
+        mAnimation.setDuration(1000);
         mAnimation.setRepeatCount(-1);
         mAnimation.setRepeatMode(Animation.REVERSE);
         mAnimation.setInterpolator(new LinearInterpolator());

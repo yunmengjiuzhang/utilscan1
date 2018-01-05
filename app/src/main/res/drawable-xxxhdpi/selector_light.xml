@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/light_open" android:state_checked="true" /><!--选中时效果图-->
+    <item android:drawable="@drawable/light_off" android:state_checked="false" /><!--未选中时效果图-->
+
+</selector>
