@@ -1,4 +1,4 @@
-#Fri Jan 05 10:20:17 CST 2018
+#Fri Jan 05 15:52:17 CST 2018
 base.0=C\:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

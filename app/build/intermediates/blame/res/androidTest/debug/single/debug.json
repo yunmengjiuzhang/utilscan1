@@ -4,6 +4,10 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_v_fragment_pop_exit.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\v_fragment_pop_exit.xml"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -36,12 +40,24 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_fragmentation_ic_expandable.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\drawable-xxhdpi-v4\\fragmentation_ic_expandable.png"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_fragmentation_ic_right.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\drawable-xxhdpi-v4\\fragmentation_ic_right.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_h_fragment_pop_enter.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\h_fragment_pop_enter.xml"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -154,6 +170,14 @@
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df211c0ecb8114e5b0036ecef8263fbd\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_v_fragment_enter.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\v_fragment_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_fragmentation_ic_stack.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\drawable-xxhdpi-v4\\fragmentation_ic_stack.png"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -412,6 +436,10 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_v_fragment_exit.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\v_fragment_exit.xml"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -528,6 +556,10 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_h_fragment_exit.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\h_fragment_exit.xml"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -550,6 +582,10 @@
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_no_anim.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\no_anim.xml"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -960,6 +996,10 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_pop_exit_no_anim.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\pop_exit_no_anim.xml"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_tooltip_frame_dark.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable\\tooltip_frame_dark.xml"
     },
@@ -1100,6 +1140,10 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_h_fragment_enter.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\h_fragment_enter.xml"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -1138,6 +1182,10 @@
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_textfield_search_material.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_v_fragment_pop_enter.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\v_fragment_pop_enter.xml"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1396,6 +1444,10 @@
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_fragmentation_help.png.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\drawable-xxhdpi-v4\\fragmentation_help.png"
+    },
+    {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df211c0ecb8114e5b0036ecef8263fbd\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
@@ -1526,6 +1578,10 @@
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_abc_secondary_text_material_light.xml.flat",
         "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\8f102b80ace64ae1e0a5d201162bce28\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_h_fragment_pop_exit.xml.flat",
+        "source": "C:\\Users\\xuany\\.gradle\\caches\\transforms-1\\files-1.1\\fragmentation-core-1.2.4.aar\\f3478f4b3cb9d8abc6539ad891c52140\\res\\anim\\h_fragment_pop_exit.xml"
     },
     {
         "merged": "C:\\Users\\xuany\\Androidws\\workspace\\util\\utilscan1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",

@@ -1,8 +1,12 @@
 package wangfei.scan1;
 
+import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Point;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
+import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceHolder.Callback;
 import android.view.SurfaceView;
@@ -12,7 +16,9 @@ import android.view.animation.LinearInterpolator;
 import android.view.animation.TranslateAnimation;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
+import android.widget.Toast;
 
+import com.tencent.smtt.sdk.ValueCallback;
 import com.zbar.lib.camera.CameraManager;
 import com.zbar.lib.decode.CaptureActivityHandler;
 import com.zbar.lib.decode.InactivityTimer;
@@ -97,25 +103,6 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
         mAnimation.setRepeatMode(Animation.REVERSE);
         mAnimation.setInterpolator(new LinearInterpolator());
         mQrLineView.setAnimation(mAnimation);
-    }
-
-
-    protected abstract void initView();
-
-    protected abstract View getline();
-
-    protected abstract View getCaptureCropLayout();
-
-    protected abstract SurfaceView getSufaceView();
-
-    public abstract void handleResult(String result);
-
-    protected void openLight() {
-        CameraManager.get().openLight(); //
-    }
-
-    protected void offLight() {
-        CameraManager.get().offLight(); //
     }
 
     @SuppressWarnings("deprecation")
@@ -207,4 +194,48 @@ public abstract class Scan1Activity extends SwipeBackActivity implements Callbac
     public Handler getHandler() {
         return handler;
     }
+
+    protected abstract void initView();
+
+    protected abstract View getline();
+
+    protected abstract View getCaptureCropLayout();
+
+    protected abstract SurfaceView getSufaceView();
+
+    public abstract void handleResult(String result);
+
+    protected void openLight() {
+        CameraManager.get().openLight(); //
+    }
+
+    protected void offLight() {
+        CameraManager.get().offLight(); //
+    }
+
+    public static void openFileChooseProcess(Activity context) {
+        Intent i = new Intent(Intent.ACTION_GET_CONTENT);
+        i.addCategory(Intent.CATEGORY_OPENABLE);
+        i.setType("*/*");
+        context.startActivityForResult(Intent.createChooser(i, "test"), 0);
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (data != null) {
+            if (resultCode == RESULT_OK) {
+                switch (requestCode) {
+                    case 0://选中
+                        handleChooseFile(data.getData());
+                        break;
+                    default://选择其他
+                        break;
+                }
+            } else if (resultCode == RESULT_CANCELED) {//取消
+
+            }
+        }
+    }
+
+    protected abstract void handleChooseFile(Uri data);
 }

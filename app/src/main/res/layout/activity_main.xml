@@ -32,6 +32,14 @@
         android:layout_margin="16dp"
         android:background="@drawable/scan_back1" />
 
+    <ImageView
+        android:id="@+id/openFile"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:background="@drawable/scan_back1" />
+
     <CheckBox
         android:id="@+id/cb_light"
         android:layout_width="wrap_content"
@@ -41,4 +49,9 @@
         android:layout_margin="40dp"
         android:background="@drawable/selector_light"
         android:button="@null" />
+
+    <ImageView
+        android:id="@+id/iv_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </RelativeLayout>

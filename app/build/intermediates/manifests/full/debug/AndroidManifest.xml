@@ -3,7 +3,7 @@
     package="com.zbar.lib" >
 
     <uses-sdk
-        android:minSdkVersion="18"
+        android:minSdkVersion="19"
         android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.CAMERA" />
@@ -22,6 +22,14 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_CALL_LOG" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 硬件加速对X5视频播放非常重要，建议开启 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
 
     <application
         android:name="com.zbar.liba.BaseApp"
@@ -44,6 +52,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <provider
+            android:name="me.yokeyword.eventbusactivityscope.RuntimeTrojanProvider"
+            android:authorities="com.zbar.lib.eventbus_activity_scope_trojan"
+            android:exported="false"
+            android:multiprocess="true" />
 
         <meta-data
             android:name="android.support.VERSION"

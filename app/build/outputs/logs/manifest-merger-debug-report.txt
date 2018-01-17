@@ -4,8 +4,13 @@ ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\Androi
 INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:2:1-26:12
 MERGED from [com.github.wangfeixixi:utilswipeback:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilswipeback-v1.4.aar\320e1eb4507507a53f5516f83610875f\AndroidManifest.xml:2:1-13:12
+MERGED from [me.yokeyword:fragmentation:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-1.2.4.aar\eb5057c2a3fa90eb9f17fc42896bf15c\AndroidManifest.xml:2:1-11:12
+MERGED from [me.yokeyword:fragmentation-swipeback:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.2.4.aar\8880b1011b9a857f1478e51d53d3015c\AndroidManifest.xml:2:1-11:12
+MERGED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:2:1-17:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:17:1-31:12
+MERGED from [me.yokeyword:fragmentation-core:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.2.4.aar\f3478f4b3cb9d8abc6539ad891c52140\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8b6944c4522a463d389c9760fdfb0445\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f7d742856059c0b341df36b79d8c90cf\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\69c1e8a0f1db29b48363a951b61d5b1c\AndroidManifest.xml:17:1-31:12
@@ -44,12 +49,16 @@ uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
 ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:8:5-84
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-84
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-84
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:20:5-84
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:20:5-84
 	android:name
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:8:22-81
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:9:5-81
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-81
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-81
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:13:5-81
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:13:5-81
 	android:name
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:9:22-78
 uses-feature#android.hardware.camera
@@ -78,10 +87,14 @@ ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\Androi
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:17:22-69
 uses-permission#android.permission.READ_PHONE_STATE
 ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:18:5-75
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:16:5-75
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:16:5-75
 	android:name
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:18:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:19:5-80
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:21:5-80
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:21:5-80
 	android:name
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml:19:22-77
 uses-permission#android.permission.READ_CALL_LOG
@@ -94,8 +107,16 @@ MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\bui
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-28:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-1.2.4.aar\eb5057c2a3fa90eb9f17fc42896bf15c\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-1.2.4.aar\eb5057c2a3fa90eb9f17fc42896bf15c\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation-swipeback:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.2.4.aar\8880b1011b9a857f1478e51d53d3015c\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation-swipeback:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.2.4.aar\8880b1011b9a857f1478e51d53d3015c\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:9:5-15:19
+MERGED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:9:5-15:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:25:5-29:19
+MERGED from [me.yokeyword:fragmentation-core:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.2.4.aar\f3478f4b3cb9d8abc6539ad891c52140\AndroidManifest.xml:9:5-20
+MERGED from [me.yokeyword:fragmentation-core:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.2.4.aar\f3478f4b3cb9d8abc6539ad891c52140\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8b6944c4522a463d389c9760fdfb0445\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8b6944c4522a463d389c9760fdfb0445\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f7d742856059c0b341df36b79d8c90cf\AndroidManifest.xml:22:5-26:19
@@ -146,10 +167,20 @@ MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\bui
 MERGED from [:scan1] C:\Users\xuany\Androidws\workspace\util\utilscan1\scan1\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95e1abac706c2ccd1be8dcd2ad524670\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.wangfeixixi:utilswipeback:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilswipeback-v1.4.aar\320e1eb4507507a53f5516f83610875f\AndroidManifest.xml:9:5-11:41
 MERGED from [com.github.wangfeixixi:utilswipeback:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilswipeback-v1.4.aar\320e1eb4507507a53f5516f83610875f\AndroidManifest.xml:9:5-11:41
+MERGED from [me.yokeyword:fragmentation:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-1.2.4.aar\eb5057c2a3fa90eb9f17fc42896bf15c\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-1.2.4.aar\eb5057c2a3fa90eb9f17fc42896bf15c\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation-swipeback:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.2.4.aar\8880b1011b9a857f1478e51d53d3015c\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation-swipeback:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-swipeback-1.2.4.aar\8880b1011b9a857f1478e51d53d3015c\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:21:5-23:78
+MERGED from [me.yokeyword:fragmentation-core:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.2.4.aar\f3478f4b3cb9d8abc6539ad891c52140\AndroidManifest.xml:5:5-7:41
+MERGED from [me.yokeyword:fragmentation-core:1.2.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\fragmentation-core-1.2.4.aar\f3478f4b3cb9d8abc6539ad891c52140\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8b6944c4522a463d389c9760fdfb0445\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8b6944c4522a463d389c9760fdfb0445\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f7d742856059c0b341df36b79d8c90cf\AndroidManifest.xml:20:5-44
@@ -180,6 +211,40 @@ INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\And
 		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\xuany\Androidws\workspace\util\utilscan1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_SETTINGS
+ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:18:22-70
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.github.wangfeixixi:utilwebx5:v1.4] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\utilwebx5-v1.4.aar\440de8d2ca10f06d68f40fda50d3a347\AndroidManifest.xml:24:22-65
+provider#me.yokeyword.eventbusactivityscope.RuntimeTrojanProvider
+ADDED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:10:9-14:43
+	android:authorities
+		ADDED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:12:13-82
+	android:multiprocess
+		ADDED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:14:13-40
+	android:exported
+		ADDED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [me.yokeyword:eventbus-activity-scope:1.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\eventbus-activity-scope-1.1.0.aar\646fb89f1bafbd1f6caafebbdb4436c1\AndroidManifest.xml:11:13-84
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\8f102b80ace64ae1e0a5d201162bce28\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\xuany\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8b6944c4522a463d389c9760fdfb0445\AndroidManifest.xml:23:9-25:38
